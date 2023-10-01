@@ -43,6 +43,7 @@ section.hero{
 
 section.setup{
     padding: 287px 0; 
+    margin-top: -200px;
 }
 section.setup .text-header h1{
     font: size 420px;
@@ -98,7 +99,9 @@ section.about h3{
 .d{
     margin-left: 70px;
 }
-
+.no{
+ margin-top: -250px;
+}
 
 /*last*/
 @media (max-width: 576px){
