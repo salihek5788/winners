@@ -118,10 +118,53 @@ section.about h3{
 
     
 } 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container1{
+    width: 60%;
+    padding: 45px;
+    border-radius: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.rw{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}  
+.col-md-7{
+    padding: 20px;
+} 
+.col-md-5{
+    color: #ffffff;
+    background-color: #608c27;
+    padding: 20px;
+}
+.frm{
+    margin-top: 50px;
+}
+.form-control{
+    height: 52px;
+    background: #ffffff;
+    color:#ffffff;
+    font-size: 18px;
+    border-radius: 2px;
+    box-sizing: none! important;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.bi{
+    font-size: 20px;
+}
+.d-flex p{
+    font-size: 18px;
+    padding-left: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hq{
+    margin-top: 150px;
+    size: 700px;
+}
     
-
-
-
-
-
-
